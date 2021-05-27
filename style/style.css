@@ -1,0 +1,53 @@
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: black;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.lon {
+    margin-right: 4rem;
+    font-size: 20px;
+    color: cyan;
+}
+
+.door {
+    margin-left: 2rem;
+}
+
+.dodo {
+    padding: 7px;
+}
+
+.tact {
+    margin-left: 52rem;
+    font-size: 20px;
+    color: cyan;
+}
+
+.vite {
+    color: white;
+    margin-top: 136px;
+    margin-left: 38px;
+}
+
+.gg {
+    color: white;
+    font-size: 60px;
+    font-family: arial;
+    margin-bottom: -42px;
+}
+
+.vot {
+    color: white;
+    font-family: arial;
+    margin-top: 62px;
+}
+
+.tov {
+    color: white;
+    font-family: arial;
+}

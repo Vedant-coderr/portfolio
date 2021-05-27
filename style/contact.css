@@ -1,0 +1,30 @@
+.ant {
+    padding: 1%;
+}
+
+body {
+    background-color: black;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.gat {
+    font-size: 130%;
+    color: cyan;
+    text-decoration: none;
+    margin-left: 2%;
+}
+
+.bg {
+    color: white;
+    font-family: arial;
+    font-size: 350%;
+    text-align: center;
+}
+
+.bg-2 {
+    color: white;
+    font-family: arial;
+    font-size: 141%;
+    text-align: center;
+}
