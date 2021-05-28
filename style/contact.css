@@ -15,6 +15,13 @@ body {
     margin-left: 2%;
 }
 
+.gat-2 {
+    font-size: 130%;
+    color: cyan;
+    text-decoration: none;
+    margin-left: 8%;
+}
+
 .bg {
     color: white;
     font-family: arial;

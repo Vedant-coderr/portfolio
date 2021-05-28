@@ -16,6 +16,13 @@ body {
     margin-left: 2rem;
 }
 
+.gat-2 {
+    margin-right: 4rem;
+    font-size: 20px;
+    color: cyan;
+    text-decoration: none;
+}
+
 .col {
     color: white;
     font-family: arial;
@@ -24,6 +31,6 @@ body {
 .bg {
     color: white;
     font-family: arial;
-    font-size: 64px;
+    font-size: 62px;
     text-align: center;
 }

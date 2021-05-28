@@ -26,12 +26,21 @@ body{
    }
 
    .tact {
-       margin-left: 73%;
+       margin-left: 72%;
        display: block;
        margin-top: -6%;
    }
 
    .lon {
        margin-left: 1%;
+       margin-right: 3rem;
    }
-}   
+   .gg {
+       font-size: 234%;
+   }
+
+   .gg-2 {
+    font-size: 234%;
+    margin-top: 0%;
+}
+}
