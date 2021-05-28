@@ -1,25 +1,11 @@
-.ant {
-    padding: 1%;
+.dodo {
+    padding: 7px;
 }
 
 body {
     background-color: black;
     background-size: 100%;
     background-repeat: no-repeat;
-}
-
-.gat {
-    font-size: 130%;
-    color: cyan;
-    text-decoration: none;
-    margin-left: 2%;
-}
-
-.gat-2 {
-    font-size: 130%;
-    color: cyan;
-    text-decoration: none;
-    margin-left: 8%;
 }
 
 .bg {
@@ -34,4 +20,24 @@ body {
     font-family: arial;
     font-size: 141%;
     text-align: center;
+}
+
+.lon {
+    margin-right: 1rem;
+    font-size: 20px;
+    color: cyan;
+    text-decoration: none;
+}
+
+.door {
+    margin-left: 1rem;
+}
+
+.tact {
+    margin-left: 12rem;
+    font-size: 20px;
+    color: cyan;
+    text-decoration: none;
+    margin-top: -8%;
+    display: block;
 }
